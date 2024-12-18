@@ -33,7 +33,7 @@ Yassine is a **digital designer and developer** from **Morocco**, passionate abo
 
 ## 📫 How to Reach Me  
 - **Portfolio**: [Visit Here](https://yassineahlouch.github.io/PORTFOLIO)  
-- **Email**: [yassine@example.com](mailto:yassineahlouch@gmail.com)  
+- **Email**: [yassineahlouch@gmail.com](mailto:yassineahlouch@gmail.com)  
 - **LinkedIn**: [Yassine Ahlouch](https://linkedin.com/in/yassineahlouch)  
 
 ---
